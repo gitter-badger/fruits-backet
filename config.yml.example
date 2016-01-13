@@ -1,0 +1,6 @@
+MAIN:
+    log: fruits-basket.log
+    debug: false
+
+HTTP:
+    port: 80

@@ -1,0 +1,36 @@
+{
+  "author": {
+    "name": "eguinane",
+    "email": "eguinane@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "eguinane",
+      "email": "eguinane@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "bunyan": "^1.5.1",
+    "express": "^4.13.3",
+    "js-yaml": "^3.5.2",
+	"turnip": "git+https://github.com/eguinane/turnip.git",
+	"broccoli": "git+https://github.com/eguinane/broccoli.git"
+  },
+  "description": "A wanna be \"Do too many things\" image related web application.",
+  "devDependencies": {},
+  "directories": {},
+  "license": "GPL-3.0",
+  "maintainers": [
+    {
+      "name": "eguinane",
+      "email": "eguinane@gmail.com"
+    }
+  ],
+  "name": "fruits-backet",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eguinane/fruits-backet.git"
+  },
+  "scripts": {},
+  "version": "0.0.1"
+}

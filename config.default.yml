@@ -1,6 +1,7 @@
 MAIN:
     log: fruits-basket.log
     debug: false
+    mode: production
 
-HTTP:
-    port: 80
+HTTPS:
+    port: 443

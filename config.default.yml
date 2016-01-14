@@ -5,3 +5,6 @@ MAIN:
 
 HTTPS:
     port: 443
+    key: /path/to/server/private/key
+    pass: passphrase
+    cert: /path/to/server/certificate
